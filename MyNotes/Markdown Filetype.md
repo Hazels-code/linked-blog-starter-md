@@ -29,9 +29,22 @@ The more "#" there are in front, the smaller it becomes.
 The less "#" there are in front, the more priority it has. ***Anything*** underneath with a lower priority then the heading will be grouped with it, unless separated by something with a higher *or* equal priority.
 #### Paragraphs
 blah blah; some text
+
 This is a ***paragraph***; it is separated by a blank line (as seen above).
+#### Text Formatting
+	*italic*
+	**bold**
+	 ***bold italic***
+	 ~~strikethrough~~
+*italic*
+**bold**
+***bold italic***
+~~strikethrough~~
+#### Lists
 
-
+##### Ordered Lists
+	1. First Item
+	2. 
 
 ## Sources:
 
