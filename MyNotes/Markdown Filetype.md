@@ -67,12 +67,14 @@ Also, clicking enter auto creates next number ^520d5a
 ##### Nested lists
 
 Just indent an element
-	"01. First"
-		"09. First but sub"
-	"00. Second"
-	- First
-		- First but sub
-	- Second
+```
+1. First
+	1. First but sub
+2. Second
+- First
+	- First but sub
+- Second
+```
 1. First
 	1. First but sub
 2. Second
@@ -80,7 +82,9 @@ Just indent an element
 	- First but sub
 - Second
 #### Links
-**For note-to-note links, check [[Obsidian#Internal Links|Internal Lin]]
+*For note-to-note links, check [[Obsidian#Internal Links|Obsidian-Internal Links]]
+
+`[This is a link to Google](https://www.google.com/)`
 
 ## Sources:
 
