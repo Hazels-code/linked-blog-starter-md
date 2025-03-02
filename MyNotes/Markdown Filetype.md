@@ -43,9 +43,19 @@ This is a ***paragraph***; it is separated by a blank line (as seen above).
 #### Lists
 
 ##### Ordered Lists
+	"01. First Item"
+	"02. Second Item"
+	"01. Wrong number, but renders correctly"
+	"296. some other ordered point"
 	1. First Item
-	2. 
+	2. Second Item
+	3. Wrong number, but renders correctly
+	4. some other ordered point
+	5. 
+Notice how it even effects these "tab lists"(?)
+Also, clicking enter auto creates next number
 
+this must acualy 
 ## Sources:
 
 markdown guide:
