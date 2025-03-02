@@ -6,6 +6,14 @@ To do this, the formatting is done using [[#Markdown Syntax]], which indicates h
 But what if I don't have a such program?
 The markdown syntax has been made such that it is incredibly easy to read. If you didn't know better, you could easily assume it was simply a stylistic choice.
 
+__________________________________________________________________________
+
+Here are a few sites that use markdown:
+	-[[GitHub]]
+	 -[[Reddit]]
+	 -[[Discord]]
+	 -[[Stackoverflo]]
+
 
 ## Markdown Syntax:
 
