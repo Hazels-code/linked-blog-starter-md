@@ -43,10 +43,10 @@ This is a ***paragraph***; it is separated by a blank line (as seen above).
 #### Lists
 
 ##### Ordered Lists
-	"01. First Item"
-	"02. Second Item"
-	"01. Wrong number, but renders correctly"
-	"296. some other ordered point"
+	`01. First Item
+	`02. Second Item
+	`01. Wrong number, but renders correctly
+	`296. some other ordered point
 	1. First Item
 	2. Second Item
 	3. Wrong number, but renders correctly
@@ -57,24 +57,22 @@ Also, clicking enter auto creates next number ^520d5a
 
 [[#^520d5a|Dis]] must actually be part of [[Obsidian]] :P 
 ##### Unordered Lists
-	Can either use "*", "+" or "-"
-	- First
-	- Second
-	- Third
+	`Can either use "*", "+" or "-"
+	`- First
+	`- Second
+	`- Third
 - First
 - Second
 - Third
 ##### Nested lists
 
 Just indent an element
-```
-1. First
-	1. First but sub
-2. Second
-- First
-	- First but sub
-- Second
-```
+	`01. First
+		`09. First but sub
+	`00. Second
+	`- First
+		`- First but sub
+	`- Second
 1. First
 	1. First but sub
 2. Second
