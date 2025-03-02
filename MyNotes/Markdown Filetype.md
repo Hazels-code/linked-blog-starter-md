@@ -53,9 +53,12 @@ This is a ***paragraph***; it is separated by a blank line (as seen above).
 	4. some other ordered point
 	5. 
 Notice how it even effects these "tab lists"(?)
-Also, clicking enter auto creates next number
+Also, clicking enter auto creates next number ^520d5a
 
-this must acualy 
+[[#^520d5a|Dis]] must actually be part of [[Obsidian]] :P 
+##### Unordered Lists
+	Can either use "*", "+" or "-"
+	- f
 ## Sources:
 
 markdown guide:
