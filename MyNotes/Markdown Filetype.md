@@ -6,6 +6,8 @@ To do this, the formatting is done using [[#Markdown Syntax]], which indicates h
 But what if I don't have a such program?
 The markdown syntax has been made such that it is incredibly easy to read. If you didn't know better, you could easily assume it was simply a stylistic choice.
 
+"Markdown at it’s core is nothing but a [[JavaScript|javascript]] library" [[#^79e371|Some blog]]
+
 __________________________________________________________________________
 
 Here are a few sites that use markdown:
@@ -13,7 +15,7 @@ Here are a few sites that use markdown:
 	 -[[Reddit]]
 	 -[[Discord]]
 	 -[[Stackoverflow]]
-	 -[[ChatGPT|AIs like ChatGPT]]
+	 -[[ChatGPT|ChatGPT's responses]]
 	 
 
 
@@ -24,6 +26,9 @@ Here are a few sites that use markdown:
 
 markdown guide:
 https://www.markdownguide.org/getting-started/
+
+some blog:
+https://sdgniser.github.io/coding_club_blogs/blogs/2023/12/29/markdown.html ^79e371
 
 wiki:
 https://en.wikipedia.org/wiki/Markdown
