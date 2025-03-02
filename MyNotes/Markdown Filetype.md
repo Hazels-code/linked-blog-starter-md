@@ -25,8 +25,13 @@ Here are a few sites that use markdown:
 	 ## H2
 	 ### H3
 	 etc
-The more "#" there are in front, the smaller it becomes
-The less "#" there are in front, the more priority it has. ***Anything*** underneath with a lower priority then the heading will be grouped with it, unless saperated by
+The more "#" there are in front, the smaller it becomes.
+The less "#" there are in front, the more priority it has. ***Anything*** underneath with a lower priority then the heading will be grouped with it, unless separated by something with a higher *or* equal priority.
+#### Paragraphs
+blah blah; some text
+This is a ***paragraph***; it is separated by a blank line (as seen above).
+
+
 
 ## Sources:
 
