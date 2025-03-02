@@ -58,7 +58,24 @@ Also, clicking enter auto creates next number ^520d5a
 [[#^520d5a|Dis]] must actually be part of [[Obsidian]] :P 
 ##### Unordered Lists
 	Can either use "*", "+" or "-"
-	- f
+	- First
+	- Second
+	- Third
+- First
+- Second
+- Third
+##### Nested lists
+
+Just indent an element
+	"01. First"
+		"09. First but sub"
+	"00. Second"
+	- First
+		- First but sub
+	- Second
+1. First
+	1. First but sub
+2. Second
 ## Sources:
 
 markdown guide:
