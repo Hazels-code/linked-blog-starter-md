@@ -20,7 +20,12 @@ Here are a few sites that use markdown:
 
 ## Markdown Syntax:
 
-
+#### Headings
+	# H1
+	 ## H2
+	 ### H3
+	 etc
+The more "#" there are in front
 
 ## Sources:
 
