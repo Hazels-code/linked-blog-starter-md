@@ -76,6 +76,12 @@ Just indent an element
 1. First
 	1. First but sub
 2. Second
+- First
+	- First but sub
+- Second
+#### Links
+**For note-to-note links, check [[Obsidian#Internal Links|Internal Lin]]
+
 ## Sources:
 
 markdown guide:
