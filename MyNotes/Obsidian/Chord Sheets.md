@@ -1,3 +1,8 @@
+
+
+
+
+Official description:
 # Obsidian Chord Sheets
 
 Render and work with chord sheets (**chords over lyrics** or **inline chords** in brackets) in your vault. This plugin brings  
