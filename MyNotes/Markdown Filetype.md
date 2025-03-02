@@ -25,7 +25,8 @@ Here are a few sites that use markdown:
 	 ## H2
 	 ### H3
 	 etc
-The more "#" there are in front
+The more "#" there are in front, the smaller it becomes
+The less "#" there are in front, the more priority it has. ***Anything*** underneath with a lower priority then the heading will be grouped with it, unless saperated by
 
 ## Sources:
 
